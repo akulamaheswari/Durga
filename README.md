@@ -11,5 +11,4 @@ Pl. add your names beneath this line.
 
  Pratik Narola (MNNIT, Allahabad)
 
-Vidyadhari(AndhraPradesh)
-hi
+Vidyadhari(AndhraPradesh).
